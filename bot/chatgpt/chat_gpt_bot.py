@@ -66,7 +66,7 @@ class ChatGPTBot(Bot, OpenAIImage):
             logger.debug("[CHATGPT] session query={}".format(session.messages))
 
             api_key = context.get("openai_api_key")
-            api_key = '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'
+            api_key = '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'
             model = context.get("gpt_model")
             model = 'gpt-3.5-turbo'
             new_args = None

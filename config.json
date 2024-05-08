@@ -1,6 +1,6 @@
 {
   "channel_type": "wx",
-  "model": "gpt-3.5-turbo",
+  "model": "wenxin",
   "open_ai_api_key": "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",
   "claude_api_key": "YOUR API KEY",
   "text_to_image": "dall-e-2",
@@ -8,6 +8,8 @@
   "text_to_voice": "openai",
   "proxy": "",
   "hot_reload": false,
+  "baidu_wenxin_api_key": "6WXkISvboMZej45eBAyOPvhX16R9UF8S",
+  "baidu_wenxin_secret_key": "eQMkDnYXAE9CNApxlfzWzLtdFUR4Wutu",
   "single_chat_prefix": [
     "bot",
     "@bot"
